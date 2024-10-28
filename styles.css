@@ -1,0 +1,49 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #141414;
+    padding: 0;
+    margin: 0;
+    height: 100vh;
+}
+
+.card{
+    padding:30px;
+    background-color:#1F1F1F ; /* #1F1F1F*/
+    color: white;
+    max-width:400px;
+    text-align: center;
+    width: 100%;
+    height:700px ;
+    border-radius: 10px;
+}
+
+.location{
+    color: yellowgreen;
+   
+}
+
+img{
+    border-radius: 500px;
+    padding-top: 15px;
+}
+
+button{
+    display: block;
+    margin: 0 auto;
+    background-color: #333333;
+    border-radius: 12px;
+    width: 95%;
+    color: white;
+    padding: 15px;
+    margin-bottom: 20px;
+    font-family: "Kanit", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+p{
+    color: rgb(226, 223, 223);
+}
+
